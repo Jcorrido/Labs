@@ -5,5 +5,4 @@ With my submission I decided to push all of the files into the folder I had crea
 
 ## Server-section
 For the server I had difficulties using the regular windows command line so I used git bash in order to complete the assignment and get a screenshot. Which makes each command relativily hard to see the return of but if you look at the end of the statement you can see a "Recieved object" and then what was supposed to return
-![Alt text](/img/Homework 3.PNG "Server Picture")
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](/img/Homework3.jpg "Server Picture")
